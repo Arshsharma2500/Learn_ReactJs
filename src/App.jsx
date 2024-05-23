@@ -30,6 +30,8 @@ function App() {
           onClick={navigatepassGn}>PassGn</button>
           <button className='bg-transparent hover:bg-slate-600 hover:bg-opacity-40 text-slate-700 font-semibold hover:text-white py-2 px-4 border border-slate-700 hover:border-transparent rounded'
           onClick={()=>{window.location.href = '/currencyapp'}}>CurrConv</button>
+          <button className='bg-transparent hover:bg-slate-600 hover:bg-opacity-40 text-slate-700 font-semibold hover:text-white py-2 px-4 border border-slate-700 hover:border-transparent rounded'
+          onClick={()=>{window.location.href = '/todolist'}}>To_Do</button>
           
           
         </div>
