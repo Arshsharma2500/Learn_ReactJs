@@ -44,13 +44,7 @@ function Input({
                         <option key={currency} value={currency}>
                         {currency}
                         </option>
-                    ))}
-
-                    
-
-
-
-                    
+                    ))} 
                 
                 </select>
             </div>
